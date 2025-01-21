@@ -13,22 +13,9 @@
       "title": "My Assets",
       "environments": [ "edit" ],
       "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
-      "isPalette": true,
+      "isPalette": false,
       "includePaths": [ "**.docx**" ],
       "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:800px; height: calc(100vh - 60px)"
-      "filterSchema": [ 
-    	{ 
-        	"header": "Assets Tags", 
-        	"groupKey": "AssetTagsGroup", 
-        	"fields": [ 
-            	{ 
-                	"element": "taggroup", 
-                	"name": "property=metadata.application.xcm:keywords.id", 
-                	"columns": 3 
-            	} 
-        	] 
-    	}
-      ]
     },
     {
       "id": "generate-variations",
