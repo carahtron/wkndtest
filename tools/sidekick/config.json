@@ -20,7 +20,7 @@
     {
       "id": "generate-variations",
       "title": "Generate Variations",
-      "url": "https://experience.adobe.com/aem/generate-variations",
+      "url": "https://experience.adobe.com/solutions/aem-sites-genai-aem-genai-variations-mfe/static-assets/resources/early-access.html",
       "passConfig": true,
       "environments": [ "preview", "live", "edit" ],
       "includePaths": ["**.docx**"]
