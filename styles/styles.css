@@ -12,7 +12,7 @@
 
  :root {
   /* colors */
-  --color-yellow: #ffea00;
+  --color-yellow: #3155A4; /* changed to color-blue in the hex, but not messing with variable name */
   --link-color: black;
   --link-hover-color: black;
   --background-color: #fff;
